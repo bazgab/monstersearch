@@ -4,7 +4,8 @@
   "description": "MonsterSearch is a CLI companion application to aid D&D players that want to find relevant basic information on a monster",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "monstersearch" : "index.js"
   },
   "bin": {
     "monstersearch": "index.js"
